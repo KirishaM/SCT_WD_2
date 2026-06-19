@@ -1,25 +1,26 @@
 # Calculator Web Application
 
-A responsive Calculator Web Application built using HTML, CSS, and JavaScript.
+SkillCraft Technology Internship
 
-## Features
+## Task 2 - Calculator Web Application
 
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Clear Display
-* Delete Last Character
-* Responsive User Interface
+### Features
+
+* Basic Arithmetic Operations
+* Addition, Subtraction, Multiplication, and Division
+* Clear Display Function
+* Delete Last Character Function
 * Keyboard Support
+* Responsive Design
+* Clean and User-Friendly Interface
 
-## Technologies Used
+### Technologies Used
 
 * HTML
 * CSS
 * JavaScript
 
-## Project Structure
+### Project Structure
 
 SCT_WD_2
 
@@ -31,6 +32,6 @@ SCT_WD_2
 
 └── README.md
 
-## Author
+### Author
 
 Kirisha M
