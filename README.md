@@ -1,37 +1,22 @@
-# Calculator Web Application
-
-SkillCraft Technology Internship
+# SkillCraft Technology Internship
 
 ## Task 2 - Calculator Web Application
 
 ### Features
 
-* Basic Arithmetic Operations
-* Addition, Subtraction, Multiplication, and Division
-* Clear Display Function
-* Delete Last Character Function
-* Keyboard Support
+* Basic Arithmetic Operations (+, −, ×, ÷, %)
+* Interactive Calculator Interface
+* Keyboard Input Support
+* Clear Display Functionality
+* Delete Last Character Option
+* Error Handling for Invalid Expressions
+* Calculation History
 * Responsive Design
-* Clean and User-Friendly Interface
+* Real-Time Expression Display
+* Mobile-Friendly Layout
 
 ### Technologies Used
 
 * HTML
 * CSS
 * JavaScript
-
-### Project Structure
-
-SCT_WD_2
-
-├── index.html
-
-├── style.css
-
-├── script.js
-
-└── README.md
-
-### Author
-
-Kirisha M

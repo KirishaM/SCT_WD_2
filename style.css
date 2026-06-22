@@ -11,6 +11,7 @@ body{
     justify-content:center;
     align-items:center;
     min-height:100vh;
+    padding:20px;
 }
 
 .calculator{
@@ -26,6 +27,14 @@ h1{
     margin-bottom:20px;
     color:#2563eb;
     font-size:24px;
+}
+
+#historyDisplay{
+    text-align:right;
+    color:#64748b;
+    font-size:18px;
+    min-height:25px;
+    margin-bottom:5px;
 }
 
 #display{
@@ -66,4 +75,43 @@ button:hover{
 
 .equal:hover{
     background:#1d4ed8;
+}
+
+.history-section{
+    margin-top:20px;
+}
+
+.history-section h3{
+    color:#2563eb;
+    margin-bottom:10px;
+}
+
+#historyList{
+    list-style:none;
+    max-height:150px;
+    overflow-y:auto;
+}
+
+#historyList li{
+    padding:8px;
+    margin-bottom:5px;
+    background:#f1f5f9;
+    border-radius:6px;
+    font-size:14px;
+}
+
+@media(max-width:400px){
+
+    .calculator{
+        width:100%;
+    }
+
+    button{
+        height:55px;
+        font-size:18px;
+    }
+
+    #display{
+        font-size:24px;
+    }
 }
